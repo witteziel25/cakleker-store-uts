@@ -9,7 +9,7 @@
             <div class="detail-item"><span class="detail-label">Peran</span><span class="detail-value">Administrator</span></div>
             <div class="detail-item"><span class="detail-label">Waktu Masuk</span><span class="detail-value">{{ \Carbon\Carbon::parse($waktu_masuk)->translatedFormat('l, d F Y H:i:s') }}</span></div>
         </div>
-        <div class="profil-footer">Forza Ferrari! 🏎️</div>
+        <div class="profil-footer">Forza Ferrari!</div>
     </div>
 </div>
 @endsection

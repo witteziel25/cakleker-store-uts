@@ -10,7 +10,7 @@
                 <div><div class="stat-number">5+</div><div class="stat-label">Tahun Berdiri</div></div>
                 <div><div class="stat-number">200</div><div class="stat-label">Tifosi Puas</div></div>
             </div>
-            <div class="hero-promo">🏎️ Gratis ongkir untuk pembelian di atas Rp3.000.000</div>
+            <div class="hero-promo"> Gratis ongkir untuk pembelian di atas Rp3.000.000</div>
         </div>
         <div class="dashboard-right">
             <div class="produk-vertical-container">
